@@ -1,0 +1,11 @@
+:host {
+    background: cyan;
+    color:bluenovy;
+
+    border-top: 0px solid lightblue;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 49px;
+    border-bottom-width: 1px;
+    padding: 0 17px;
+}
